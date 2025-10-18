@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+mysql-connector-python
+python-jose
+passlib[bcrypt]
+python-multipart
+pillow
+openai==2.5.0
+requests
+python-dotenv
